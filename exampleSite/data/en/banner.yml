@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image_webp: images/truss.webp
-  bg_image: images/truss.jpg
+  bg_image: images/truss.jpeg
   icon: ''
   title: ARCHITECT HUGH WOOD
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
